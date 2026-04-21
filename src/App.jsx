@@ -10,9 +10,9 @@ function App() {
       <section className='user-stories'>
         <h2>User Stories</h2>
         <ul>
-          <li>Fans of indie artists, who like to read up on their favorite artists and share on social media or with friends</li>
-          <li>As a fan, I can browse the site to find bios and information about my favorite artist and bands.</li>
-          <li>The goal is to help fans easily access content from indie artists.</li>   
+          <li>As a fan of indie artists, I want to browse artist bios and album information, so that I can discover and share music I like.</li>  
+          <li>As a mobile music fan, I want a responsive, single-column layout for the label and artist pages,
+              so that I can easily browse the roster and read bios on my phone without zooming or horizontal scrolling.</li>
         </ul>
       </section>
     </>
