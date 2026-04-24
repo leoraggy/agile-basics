@@ -19,7 +19,7 @@ function App() {
       </header>
 
       <section className="feature-image" aria-label="Indie music banner">
-        <img src={indieMusicImage} alt="Indie Music Art" />
+        <img src="indie-music.jpg" alt="Indie Music Art" />
       </section>
 
       <section className="artists" aria-labelledby="artists-title">
@@ -46,7 +46,7 @@ function App() {
         </div>
       </section>
     </main>
-  )
+  );
 }
 
-export default App
+export default App;
